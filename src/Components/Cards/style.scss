@@ -1,0 +1,13 @@
+@import "./../../global.scss";
+
+#cards {
+    background:$gray-700;
+    height: 500px;
+    max-width: 1320px;
+    margin:0 auto;
+    border-radius: 10px;
+    display: flex;
+    gap:20px;
+    padding:20px;
+    flex-wrap: wrap;
+}
